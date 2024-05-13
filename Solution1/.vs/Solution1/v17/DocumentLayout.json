@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SEMESTER 4\\PRAK KPL\\Tubes\\Solution1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A862272-2ADD-448D-BAF0-E359B713C2E6}|WebApplication1\\API_DataBarang.csproj|d:\\semester 4\\prak kpl\\tubes\\solution1\\webapplication1\\controllers\\barangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A862272-2ADD-448D-BAF0-E359B713C2E6}|WebApplication1\\API_DataBarang.csproj|solutionrelative:webapplication1\\controllers\\barangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A862272-2ADD-448D-BAF0-E359B713C2E6}|WebApplication1\\API_DataBarang.csproj|d:\\semester 4\\prak kpl\\tubes\\solution1\\webapplication1\\api_databarang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A862272-2ADD-448D-BAF0-E359B713C2E6}|WebApplication1\\API_DataBarang.csproj|solutionrelative:webapplication1\\api_databarang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A862272-2ADD-448D-BAF0-E359B713C2E6}|WebApplication1\\API_DataBarang.csproj|d:\\semester 4\\prak kpl\\tubes\\solution1\\webapplication1\\data\\databarang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A862272-2ADD-448D-BAF0-E359B713C2E6}|WebApplication1\\API_DataBarang.csproj|solutionrelative:webapplication1\\data\\databarang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A862272-2ADD-448D-BAF0-E359B713C2E6}|WebApplication1\\API_DataBarang.csproj|d:\\semester 4\\prak kpl\\tubes\\solution1\\webapplication1\\model\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A862272-2ADD-448D-BAF0-E359B713C2E6}|WebApplication1\\API_DataBarang.csproj|solutionrelative:webapplication1\\model\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarangController.cs",
+              "DocumentMoniker": "D:\\SEMESTER 4\\PRAK KPL\\Tubes\\Solution1\\WebApplication1\\Controllers\\BarangController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BarangController.cs",
+              "ToolTip": "D:\\SEMESTER 4\\PRAK KPL\\Tubes\\Solution1\\WebApplication1\\Controllers\\BarangController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BarangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:47:35.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "D:\\SEMESTER 4\\PRAK KPL\\Tubes\\Solution1\\WebApplication1\\Model\\Barang.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Barang.cs",
+              "ToolTip": "D:\\SEMESTER 4\\PRAK KPL\\Tubes\\Solution1\\WebApplication1\\Model\\Barang.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Barang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:46:56.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBarang.json",
+              "DocumentMoniker": "D:\\SEMESTER 4\\PRAK KPL\\Tubes\\Solution1\\WebApplication1\\Data\\DataBarang.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\DataBarang.json",
+              "ToolTip": "D:\\SEMESTER 4\\PRAK KPL\\Tubes\\Solution1\\WebApplication1\\Data\\DataBarang.json",
+              "RelativeToolTip": "WebApplication1\\Data\\DataBarang.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABMAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T18:46:30.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API_DataBarang.csproj",
+              "DocumentMoniker": "D:\\SEMESTER 4\\PRAK KPL\\Tubes\\Solution1\\WebApplication1\\API_DataBarang.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\API_DataBarang.csproj",
+              "ToolTip": "D:\\SEMESTER 4\\PRAK KPL\\Tubes\\Solution1\\WebApplication1\\API_DataBarang.csproj",
+              "RelativeToolTip": "WebApplication1\\API_DataBarang.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T18:45:30.504Z",
+              "EditorCaption": ""
             }
           ]
         }
